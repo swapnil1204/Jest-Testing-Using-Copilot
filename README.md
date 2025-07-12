@@ -68,3 +68,70 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+// Synechron
+•React application building blocks,
+•basics of SEO,
+•basics of accessibility,
+•Problem solving at design level ,
+•Deployment basics on React K8,
+•Micro front end basics,
+•NextJS basics
+The primary application they will be working on can be found here:
+https://www.usbank.com/wealth-management/find-an-advisor/
+https://www.usbank.com/locations/search/
+Find a Financial Advisor | U.S. Bank | U.S. Bancorp Investments
+Meet highly experienced and dedicated wealth management advisors ready to serve you from U.S. Bank and U.S. Bancorp Investments. Find one that is near to you now!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Opus Technology
+// Santosh Gawade (IND_PUN)
+
+(1) promise by 
+
+(2) settitimeout by Santosh Gawade (IND_PUN)
+
+(3) componentDidMount, componentDidUpdate, componentWillUnmount
+
+(4) useEffect
+
+(5)useMemo, useCallback
+
+(6) Pure component
+
+(7) Redux VS Redux toolkit 
+
+Things explore -
+(8) React Storybook, 
+
+(9) Webpack ,
+
+(10) Microfrontend , 
+
+(11) Redux Vs Redux tookit, 
+
+(12) Typescript,
+
+(13)  Unit testing
